@@ -7,7 +7,7 @@
 -->
 
 # Ionic DevOps Cours - Simple Front
-Simple Todos Application with Ionic Framework
+Simple Todos Application with Ionic Framework for Ionic DevOps Cours.
 
 ## Get Started
 - `$ npm install -g cordova ionic`
